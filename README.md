@@ -114,5 +114,10 @@ README.md
 dashboard/    Power BI file (.pbix)
 images/       dashboard screenshots used above
 ```
+## Download the Power BI Dashboard
 
-To open the dashboard, download the `.pbix` file and open it in Power BI Desktop. The dataset itself is linked above rather than included in this repo.
+The interactive Power BI dashboard is available in the GitHub Releases section.
+
+**[Download the Employee Attrition Dashboard (.pbix)](https://github.com/Dasha69-ops/hr-employee-attrition-analysis/releases/download/v1.0.0/HR_EMPLOYEE_ATTRITTION)**
+
+To explore the dashboard, download the `.pbix` file and open it using Power BI Desktop. The source dataset is available through the Kaggle link provided above.
