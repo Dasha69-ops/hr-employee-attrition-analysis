@@ -118,6 +118,8 @@ images/       dashboard screenshots used above
 
 The interactive Power BI dashboard is available in the GitHub Releases section.
 
+[Check the Employee Attrition Dashboard (.pbix)](https://app.powerbi.com/groups/me/reports/47e09396-a7c7-4711-8aa5-c8656c64c06d/52c83f9c19a84dea081e?experience=power-bi&bookmarkGuid=7b0d839da0a9953b6b09)
+
 **[Download the Employee Attrition Dashboard (.pbix)](https://github.com/Dasha69-ops/hr-employee-attrition-analysis/releases/download/v1.0.0/HR_EMPLOYEE_ATTRITTION)**
 
 To explore the dashboard, download the `.pbix` file and open it using Power BI Desktop. The source dataset is available through the Kaggle link provided above.
